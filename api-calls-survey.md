@@ -27,6 +27,16 @@ We will need the following:
 6. Attempt to construct a curl call that will enter a new contact into your mailing list
 7. Use the web service feature in Qualtrics to do the same thing.
 
+From Michelle:
+
+Just a Side note for "Contacts/Directories": here's something I found: 
+
+Old Path for Contacts: /API/v3/mailinglists/:listId/contacts
+
+New Directory path: /directories/{directoryId}/mailinglists/{mailingListId}/contacts
+
+Link to Documentation: https://api.qualtrics.com/77113dcca09c2-get-contact-in-mailing-list
+
 ---
 
 [Return to main page](../../)
