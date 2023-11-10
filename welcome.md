@@ -8,4 +8,4 @@ Tell us a few things about yourself.
 
 We'll compile a list of use cases for the Qualtrics API and reflect on these throughout the course.
 
-[Return to main page](./)
+[Return to main page](../../)
